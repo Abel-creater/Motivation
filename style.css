@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+h1{
+    text-transform: uppercase;
+    font-family: "Carter One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color:rgb(255, 204, 0);
+}
+#main{
+    margin-top: 10px;
+    color: white;
+    text-align: center;
+    font-family: "Caveat", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+    
+}
+#photo{
+    border: 5px solid white;
+    height:500px;
+}
+p{
+    font-size: xx-large;
+}
+
+
+    
